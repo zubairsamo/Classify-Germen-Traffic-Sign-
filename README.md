@@ -1,5 +1,5 @@
 # Classify-Germen-Traffic-Sign
-Germen Traffic Sign Classification Using Convolutional Neural Network 
+Germen Traffic Sign Classification Using Deep Convolutional Neural Network 
 # Description
 This project uses a deep convolutional neural network to classify images of 43 different classes. This project classify street symbols and signs. The dataset used in the project is open source and available on bitbucket to download.Here is the link of the dataset https://bitbucket.org/jadslim/german-traffic-signs/src/master/. ipython notebook along with the py file of this project is available. You can add new layers to the model to make it robust and also play around with the parameters of each layer to get more better results. You can also add more images to the project so that it has larger data to learn.
 # Run it now
