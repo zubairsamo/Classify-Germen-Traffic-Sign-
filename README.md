@@ -23,6 +23,7 @@ You can get in touch with me on my LinkedIn Profile:
 )](https://linkedin.com/in/zubair-samo-3a2764197)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-zubairsamo-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/zubairsamo)
+
 If you liked the repo then kindly support it by giving it a star ⭐!
 
 ## Contributions Welcome
@@ -30,11 +31,7 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
-## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/zubairsamo.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/zubairsamo/issues)
-
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+
 Copyright (c) 2020 Zubair Samo
