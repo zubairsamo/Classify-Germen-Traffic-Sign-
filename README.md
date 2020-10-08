@@ -1,5 +1,11 @@
-# Classify-Germen-Traffic-Sign
-Germen Traffic Sign Classification Using Deep Convolutional Neural Network 
+<h1 align="center">Germen Traffic Sign Classification Using DCNN</h1>
+
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/zubairsamo/Fashion-Mnist-Using-CNN.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/zubairsamo/Classify-Traffic-Sign-Using-DCNN/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/zubairsamo/Fashion-Mnist-Using-CNN.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/zubairsamo/Classify-Traffic-Sign-Using-DCNN/issues)
+
 # Description
 This project uses a deep convolutional neural network to classify images of 43 different classes. This project classify street symbols and signs. The dataset used in the project is open source and available on bitbucket to download.Here is the link of the dataset https://bitbucket.org/jadslim/german-traffic-signs/src/master/. ipython notebook along with the py file of this project is available. You can add new layers to the model to make it robust and also play around with the parameters of each layer to get more better results. You can also add more images to the project so that it has larger data to learn.
 # Run it now
