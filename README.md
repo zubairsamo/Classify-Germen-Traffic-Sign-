@@ -8,8 +8,11 @@ This project uses a deep convolutional neural network to classify images of 43 d
 </a>
 
 ## Requirements
- Type below command in cmd to get up and running with the dependencies of the file.
- 
+
+Type below command in cmd to get up and running with the dependencies of the file.
+```
+pip install -r requirement.txt
+```
  git clone https://github.com/zubairsamo/Classify-Traffic-Sign-Using-DCNN
 .git
 
